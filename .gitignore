@@ -1,3 +1,3 @@
 node_modules
-/src/node_modules
-/src/utils/apikey.js
+client/src/node_modules
+client/src/utils/apikey.js
